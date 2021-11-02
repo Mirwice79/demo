@@ -13,6 +13,12 @@
     { "id": 5, "body": "some comment", "postId": 1 },
     { "id": 6, "body": "some comment", "postId": 1 }
   ],
+  "rates": [
+    { "id": 1, "body": "some rate", "postId": 1 },
+    { "id": 2, "body": "some rate", "postId": 1 },
+    { "id": 5, "body": "some rate", "postId": 1 },
+    { "id": 6, "body": "some rate", "postId": 1 }
+  ],
   "profile": {
     "name": "Mirwice79"
   }
